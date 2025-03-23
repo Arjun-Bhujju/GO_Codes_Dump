@@ -16,8 +16,8 @@ Welcome to the **Go Code Dump**! This repository is a collection of various Go p
 ## 🚀 How to Run
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/go-code-dump.git
-cd go-code-dump
+git clone https://github.com/Arjun-Bhujju/GO_Codes_Dump.git
+cd GO_Codes_Dump
 ```
 Run a specific Go file:
 ```sh
